@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;500&display=swap');
+
+#kuning {
+  color: #FF0;
+}
+#biru {
+  color: blue;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 100;
+}
+.biru {
+  color: blue;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 500;
+}
+.kuning {
+  color: yellow;
+}
+.kotak-biru {
+  border: 1px solid blue;
+  display: block;
+  position: relative;
+  height: 100px;
+  width: 100px;
+}
+.align-center {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.font16 {
+  font-size: 16px;
+}
